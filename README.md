@@ -4,6 +4,8 @@
 
 A dilligent Backend & BlockChain Engineer. I'm focused on bringing business ideas and logic into working infrastructure using code
 
+I currently work with a leading tech company that powers the global travel industry, building products for the Central & West Africa market.
+
 - 🔭 I’m currently working on Projects with Golang/Gin
 - 🌱 I’m currently learning Rust/BlockChain
 - 💬 Ask me about Backend with Python, Golang & JavaScript
@@ -18,6 +20,7 @@ A dilligent Backend & BlockChain Engineer. I'm focused on bringing business idea
 
 - [A Reusable File Upload Service](https://github.com/Brymes/Reusable-File-Upload-Service) : Golang|Docker|AWS|Cloudinary
 - [LazerPay Golang SDK(Unofficial)](https://github.com/Brymes/Go-LazerPay): Golang|LazerPay
+- [30 Days of Code Telegram Bot(to Register)](https://github.com/Brymes/30-Days-of-Code-Telegram-Bot): Golang|Docker|Go-Telegram-Bot-Api
 
 <!-- ### Languages and Tools 🛠
 
