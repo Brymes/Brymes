@@ -21,6 +21,7 @@ I currently work with a leading tech company that powers the global travel indus
 - [A Reusable File Upload Service](https://github.com/Brymes/Reusable-File-Upload-Service) : Golang|Docker|AWS|Cloudinary
 - [LazerPay Golang SDK(Unofficial)](https://github.com/Brymes/Go-LazerPay): Golang|LazerPay
 - [30 Days of Code Telegram Bot(to Register)](https://github.com/Brymes/30-Days-of-Code-Telegram-Bot): Golang|Docker|Go-Telegram-Bot-Api
+- [NFT Sales Tracker Bot](https://github.com/Brymes/NFT-Sales-Discord-Bot): Golang|Docker|Discord API
 
 <!-- ### Languages and Tools 🛠
 
