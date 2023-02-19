@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Hi 👋, I'm Timothy Odebunmi
+### I'm Timothy Odebunmi, call me Brymes
 
 A dilligent Backend & BlockChain Engineer. I'm focused on bringing business ideas and logic into working infrastructure using code
 
@@ -22,11 +22,14 @@ I currently work with a leading tech company that powers the global travel indus
 - [LazerPay Golang SDK(Unofficial)](https://github.com/Brymes/Go-LazerPay): Golang|LazerPay
 - [30 Days of Code Telegram Bot(to Register)](https://github.com/Brymes/30-Days-of-Code-Telegram-Bot): Golang|Docker|Go-Telegram-Bot-Api
 - [NFT Sales Tracker Bot](https://github.com/Brymes/NFT-Sales-Discord-Bot): Golang|Docker|Discord API|[DIA](https://app.diadata.org/nft-data)
+- [WhaleBot-TS](https://github.com/Brymes/WhaleBot-TS): TypeScript|NestJS|DiscordJS|[Alchemy](https://docs.alchemy.com/reference/address-activity-webhook)
+- [Tac-Hymns-IOS](https://github.com/Brymes/TAC-Hymns-IOS): Flutter|Hive|IOS
 
 ## Learning with Brymes
 
 - [IP Whitelisting with Go, Gin](https://gist.github.com/Brymes/00e51eecbe461561e6c786ba4c116d09) : Golang|[Gin](https://github.com/gin-gonic/gin)
 - [Gin, Gorm  Sample App](https://gist.github.com/Brymes/c34809ada9d7613a401b29abd294059d) : Golang|[Gin](https://github.com/gin-gonic/gin)|[Gorm](https://gorm.io)
+
 <!-- ### Languages and Tools 🛠
 
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="60" height="60"/> </a>
