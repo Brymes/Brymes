@@ -4,9 +4,9 @@
 
 I'm focused on bringing business ideas and logic into working infrastructure using code
 
-- 🔭 I’m actively working on Projects with Golang/Gin
-- 🌱 I’m currently learning Rust/BlockChain
-- 💬 Ask me about Backend with Python, Golang & JavaScript
+- 🔭 I’m actively working on Projects with Golang
+- 🌱 I’m currently experimenting with In-Memory Databases and P2P Networks
+- 💬 Ask me about Backend with Python, Golang & JavaScript || Blockchain with Golang & Solidity || 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/timothy-odebunmi-b033631bb/) and mail [tbodebunmijnr@gmail.com](mailto:tbodebunmijnr@gmail.com)
 - 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
