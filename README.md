@@ -5,7 +5,7 @@
 I'm focused on bringing business ideas and logic into working infrastructure using code
 
 - 🔭 I’m actively working on Projects with Golang
-- 🌱 I’m currently experimenting with In-Memory Databases and P2P Networks
+- 🌱 I’m currently experimenting with Solana, In-Memory Databases and P2P Networks
 - 💬 Ask me about Backend with Python, Golang & JavaScript || Blockchain with Golang & Solidity || 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/timothy-odebunmi-b033631bb/) and mail [tbodebunmijnr@gmail.com](mailto:tbodebunmijnr@gmail.com)
 - 😄 Pronouns: He/Him
@@ -13,6 +13,9 @@ I'm focused on bringing business ideas and logic into working infrastructure usi
 - 🤔 I’m looking for help with ... -->
 !["Profile Views"](https://komarev.com/ghpvc/?username=Brymes&label=Profile%20views&color=0e75b6&style=flat "Profile Views")
 <!-- - ⚡ Fun fact: ... -->
+
+## ARTICLES
+- [Solana Blinks with Go](https://dev.to/brymes/solana-blinks-with-go-j4i)
 
 ## ⚡ Some Fun Projects here ⚡
 
