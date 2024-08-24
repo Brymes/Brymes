@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Timothy Odebunmi, call me Brymes
+### I'm Timothy, call me Brymes
 
 I'm focused on bringing business ideas and logic into working infrastructure using code
 
